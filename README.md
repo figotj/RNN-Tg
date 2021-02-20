@@ -2,7 +2,7 @@
 A chemical language processing model for polymer Tg prediction.
 
 # Data
-- Labeled/Unlabled polymer data from PolyInfo database.
+- Polymer data is manually collected from PolyInfo database which can be referred to https://polymer.nims.go.jp/en/.
 - High-temperature polymer data with predictions using the model is available here.
 
 # model
